@@ -1,10 +1,10 @@
-
 spring:
   port: 8080
   application:
-  name: Crud-enitma
+    name: Crud-enitma
   jackson:
     time-zone: America/Mexico_City
+
   datasource:
     url: jdbc:postgresql://localhost:5433/enitma_database
     username: user
@@ -18,3 +18,5 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
+
+
