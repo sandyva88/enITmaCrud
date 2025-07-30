@@ -6,7 +6,7 @@ Consiste en una API CRUD que contiene los siguientes Endpoints:
 - [GET] /products  -  Obtiene todos los productos
 - [PUT] /products/put/{id} - Actualiza un producto existente mediante el id y un body request con los campos a actualizar
 
-<img src="/assets/enITma%20Flowchart.png"> 
+<img src="https://photos.app.goo.gl/zNZASUpLfuHNL9AV6"> 
 
 Requerido:
  - Maven
